@@ -11,3 +11,14 @@
 </p>
 
 <h3 align="center">🚀 Hi, I'm Leon a full stack creating unique websites. Get in touch or have a look at my work! 🚀</h3>
+
+<br />
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NinjaInShade&theme=react&count_private=true&show_icons=true"></p>
+
+<br />
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaInShade&theme=react&hide=ejs&layout=compact"></p>
+
+<br />
+
