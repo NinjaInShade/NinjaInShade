@@ -10,7 +10,7 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<h3 align="center">🚀 Hi, I'm Leon a full stack creating unique websites. Get in touch or have a look at my work! 🚀</h3>
+<h3 align="center">🚀 Hi, I'm Leon a full stack developer creating unique websites. Get in touch or have a look at my work! 🚀</h3>
 
 <br />
 
