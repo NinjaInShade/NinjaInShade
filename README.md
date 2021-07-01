@@ -1,4 +1,4 @@
-<a align="center"><img src="https://github.com/NinjaInShade/NinjaInShade/blob/main/GithubHeader.png"/></a>
+<a align="center"><img src="https://github.com/NinjaInShade/NinjaInShade/blob/main/github profile banner.png"/></a>
 
 <p align="center">
     <a href="https://leonmichalakdesigns.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fleonmichalakdesigns.com"></a>
