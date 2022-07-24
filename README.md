@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">🚀 Hi, I'm Leon a frontend developer from the UK. Get in touch :) 🚀</h3>
-<h3 align="center">Freelancing new site in progress on: <a href="https://realgfx.netlify.app" target="_blank">Realgfx.netlify.app<a/></h3>
+<h3 align="center">Freelancing new site in progress on: <a href="https://realgfx.netlify.app" target="_blank">RealGFX.netlify.app<a/></h3>
 
 <br />
 
