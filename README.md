@@ -10,8 +10,7 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<h3 align="center">🚀 Hi, I'm Leon a frontend developer from the UK 🚀</h3>
-<h3 align="center">Freelancing new site in progress on: <a href="https://realgfx.netlify.app" target="_blank">RealGFX.netlify.app<a/></h3>
+<h3 align="center">🚀 Visit <a href="https://realgfx.co.uk" target="_blank">RealGFX.co.uk<a /> to upgrade your small business site 🚀</h3>
 
 <br />
 
